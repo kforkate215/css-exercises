@@ -36,6 +36,10 @@ div.text {
   font-weight: 100;
 }
 
+/*
+we move this down here because of the rule order!!
+*/
+
 .small-para {
   font-size: 14px;
 }
